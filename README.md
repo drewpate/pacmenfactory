@@ -1,5 +1,5 @@
 # PACMEN FACTORY
-Factory for making pacmen.
+Factory for making pacmen. This will create as many or as little PacMen as your way, pulling the local images and pushing them into an array which is manipulated with collision detection function.
 
 ## How to run.
 I recommend using VS Code and opening all files in the folder. From HTML file open with the Live Server extension. 
